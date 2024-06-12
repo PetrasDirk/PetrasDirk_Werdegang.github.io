@@ -1,0 +1,5 @@
+Mein erster Versuch Mit VisualStudio-Code, Git und GitHub ein Repository zu erstellen und meine erste 
+Website zu Hosten.
+user.name "PetrasDirk"
+user.email "dirkklaus3@gmail.com"
+Art of Lebenslauf
